@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+alembic
+pydantic[email]
+python-dotenv
+# AI and NLP Libraries
+torch
+transformers
+spacy
+sentencepiece
+# UI and HTTP Client
+gradio
+requests
